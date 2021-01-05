@@ -1,11 +1,21 @@
-## ASCII-art calendar for 2021
+## ASCII-артовый календарь на 2021
 
-### Licensing
+![календарь](https://github.com/SynedraAcus/2021_calendar/blob/main/exports/raw.png)
 
-All contents of this repository are available under the terms of Creative
-Commons Attribution license
- ([CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)).
-In human terms, this means that you're free to do whatever you want with
- this calendar (even make money from it) except denying that it
- was created by Alexey Morozov aka
-[synedraacus](https://github.com/SynedraAcus).
+### Файлы
+
+Папка `source` содержит единственный файл `Calendar.xp` в двоичном формате
+[REXpaint](https://www.gridsagegames.com/rexpaint/). Если вы хотите изменить
+сам арт или дизайн календаря - редактируйте именно его.
+
+В папке `export` лежат экспортированные PNG-файлы. `raw.png` в разрешении
+1440х2100 px - исходник, остальные два увеличены под разрешения 2408x3508 px
+и 3508x4961, т.е. 300dpi для A4 и A3 соответственно.
+
+### Лицензия
+
+Календарь может быть свободно использован на условиях лицензии
+[CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode). То есть
+его можно выкладывать куда угодно, печатать для себя, продавать и вообще делать
+с ним всё, что вам в голову взбредёт, при указании авторства Алексея Морозова
+aka [synedraacus](https://github.com/SynedraAcus).
